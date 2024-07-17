@@ -8,17 +8,15 @@ Soy un programador especializado en C# .NET con habilidades destacadas en autoge
 
 ### Skills
 
-###Back-End
+##Back-End
 
 <a href="https://img.icons8.com/color/48/000000/c-sharp-logo.png"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"></a>
-<a href="https://img.icons8.com/color/48/000000/dot-net.png"><img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET"></a>
 <a href="https://img.icons8.com/color/48/000000/sql.png"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"></a>
 <a href="https://img.icons8.com/color/48/000000/asp.png"><img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core"></a>
 <a href="https://img.icons8.com/color/48/000000/api-settings.png"><img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Web API"></a>
-<a href="https://img.icons8.com/color/48/000000/api.png"><img src="https://img.icons8.com/color/48/000000/api.png" alt="Swagger"></a>
-<a href="https://img.icons8.com/color/48/000000/token.png"><img src="https://img.icons8.com/color/48/000000/token.png" alt="JWT"></a>
 
-###Front-End
+
+##Front-End
 
 <a href="https://img.icons8.com/color/48/000000/html-5.png"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"></a>
 <a href="https://img.icons8.com/color/48/000000/css3.png"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"></a>
