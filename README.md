@@ -24,9 +24,10 @@ Soy un programador especializado en C# .NET con habilidades destacadas en autoge
 <a href="https://img.icons8.com/color/48/000000/angularjs.png"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"></a>
 
 ### Contacto
-<a href="https://www.linkedin.com/in/facundo-banegaz-960982200/" target="_blank" ><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a> 
+<a href="https://www.linkedin.com/in/facundo-banegaz-960982200/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 
-<a href="https://facundo-banegaz.vercel.app/" target="_blank">Mi Portfolio</a> 
+<a href="https://facundo-banegaz.vercel.app/" target="_blank">Mi Portfolio</a>
+
 
 
 
