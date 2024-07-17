@@ -10,7 +10,6 @@ Soy un programador especializado en C# .NET con habilidades destacadas en autoge
 
 ### Back End
 <a href="https://img.icons8.com/color/48/000000/c-sharp-logo.png"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"></a>
-<a href="https://img.icons8.com/color/48/000000/dot-net.png"><img src="![asp-net-logo](https://github.com/user-attachments/assets/6e1f4058-c403-411c-8593-48e58feeec29)" alt=".NET"></a>
 <a href="https://img.icons8.com/color/48/000000/sql.png"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"></a>
 <a href="https://img.icons8.com/color/48/000000/asp.png"><img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core"></a>
 <a href="https://img.icons8.com/color/48/000000/api.png"><img src="https://img.icons8.com/color/48/000000/api.png" alt="Swagger"></a>
@@ -27,7 +26,7 @@ Soy un programador especializado en C# .NET con habilidades destacadas en autoge
 ### Contacto
 <a href="https://www.linkedin.com/in/facundo-banegaz-960982200/" target="_blank" ><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a> 
 
-<a href="https://facundo-banegaz.vercel.app/" target="_blank" ><img src="![favicon](https://github.com/user-attachments/assets/469bb8bd-37a7-440f-970e-f01a80077d59)" alt="Portfolio"></a> 
+<a href="https://facundo-banegaz.vercel.app/" target="_blank">Mi Portfolio</a> 
 
 
 
