@@ -7,7 +7,8 @@
 Soy un programador especializado en C# .NET con habilidades destacadas en autogestión, trabajo en equipo y colaboración. Domino tecnologías del Frontend (HTML, CSS, Bootstrap, JavaScript, Angular) y del Backend (C#, Web API, SQL Server), demostrando capacidad para manejar diversas herramientas de desarrollo. Aporto rápidamente a proyectos complejos con código limpio y optimizado.
 
 ### Skills
-Back-End
+
+###Back-End
 
 <a href="https://img.icons8.com/color/48/000000/c-sharp-logo.png"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"></a>
 <a href="https://img.icons8.com/color/48/000000/dot-net.png"><img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET"></a>
@@ -16,7 +17,8 @@ Back-End
 <a href="https://img.icons8.com/color/48/000000/api-settings.png"><img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Web API"></a>
 <a href="https://img.icons8.com/color/48/000000/api.png"><img src="https://img.icons8.com/color/48/000000/api.png" alt="Swagger"></a>
 <a href="https://img.icons8.com/color/48/000000/token.png"><img src="https://img.icons8.com/color/48/000000/token.png" alt="JWT"></a>
-Front-End
+
+###Front-End
 
 <a href="https://img.icons8.com/color/48/000000/html-5.png"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"></a>
 <a href="https://img.icons8.com/color/48/000000/css3.png"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"></a>
