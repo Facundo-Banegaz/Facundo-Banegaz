@@ -1,6 +1,6 @@
 ## About Me
 
-Desarrollador Full Stack con C# .NET | Angular y SQL Server.
+Desarrollador Full Stack con C# .NET | Angular | SQL Server.
 
 Me apasiona crear aplicaciones web y de escritorio eficientes, escalables y de fácil mantenimiento. A lo largo de mis proyectos, he trabajado con diversas tecnologías como ASP.NET Core, Entity Framework, JavaScript, y más, para desarrollar soluciones funcionales que resuelvan necesidades reales.
 
