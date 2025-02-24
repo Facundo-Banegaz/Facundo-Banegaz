@@ -31,4 +31,4 @@ En mi perfil encontrarás proyectos que demuestran mi habilidad en desarrollo ba
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/facundo-banegaz-960982200/" target="_blank">Fancundo Banegaz</a> Email: banegazfacundo@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/facundo-banegaz-960982200/" target="_blank">Fancundo Banegaz</a> Email: banegazfacund@gmail.com</p>
