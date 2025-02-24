@@ -1,24 +1,18 @@
-# Console.WriteLine("¡Hola! Soy Facundo Banegaz");
+Console.WriteLine("¡Hola! Soy Facundo Banegaz");
+Programador Full Stack con C# .NET
+Sobre mí
+Soy un programador Full Stack especializado en C# .NET con experiencia en el desarrollo de aplicaciones tanto en el frontend como en el backend. Me encanta trabajar en equipo y soy capaz de abordar proyectos complejos con código limpio y optimizado. Tengo conocimientos sólidos en tecnologías como Angular, SQL Server, Web API, y JavaScript, y siempre busco seguir aprendiendo y mejorando.
 
-## Programador Full Stack con C# .NET
-
-### Sobre mí
-
-Soy un programador especializado en C# .NET con habilidades destacadas en autogestión, trabajo en equipo y colaboración. Domino tecnologías del Frontend (HTML, CSS, Bootstrap, JavaScript, Angular) y del Backend (C#, Web API, SQL Server), demostrando capacidad para manejar diversas herramientas de desarrollo. Aporto rápidamente a proyectos complejos con código limpio y optimizado.
-
-### Skills
-
-### Backend
-<a href="https://img.icons8.com/color/48/000000/c-sharp-logo.png"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"></a>
-<a href="https://img.icons8.com/color/48/000000/sql.png"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"></a>
-<a href="https://img.icons8.com/color/48/000000/asp.png"><img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core"></a>
-<a href="https://img.icons8.com/color/48/000000/api.png"><img src="https://img.icons8.com/color/48/000000/api.png" alt="Swagger"></a>
-
-
-### Frontend
-<a href="https://img.icons8.com/color/48/000000/html-5.png"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"></a>
-<a href="https://img.icons8.com/color/48/000000/css3.png"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"></a>
-<a href="https://img.icons8.com/color/48/000000/figma.png"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"></a>
-<a href="https://img.icons8.com/color/48/000000/javascript.png"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"></a>
-<a href="https://img.icons8.com/color/48/000000/bootstrap.png"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"></a>
-<a href="https://img.icons8.com/color/48/000000/angularjs.png"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"></a>
+Skills
+Backend
+<a href="https://img.icons8.com/color/48/000000/c-sharp-logo.png"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"> C#</a>
+<a href="https://img.icons8.com/color/48/000000/sql.png"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"> SQL Server</a>
+<a href="https://img.icons8.com/color/48/000000/asp.png"><img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core"> ASP.NET Core</a>
+<a href="https://img.icons8.com/color/48/000000/api.png"><img src="https://img.icons8.com/color/48/000000/api.png" alt="Swagger"> Swagger</a>
+Frontend
+<a href="https://img.icons8.com/color/48/000000/html-5.png"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"> HTML5</a>
+<a href="https://img.icons8.com/color/48/000000/css3.png"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"> CSS3</a>
+<a href="https://img.icons8.com/color/48/000000/figma.png"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"> Figma</a>
+<a href="https://img.icons8.com/color/48/000000/javascript.png"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"> JavaScript</a>
+<a href="https://img.icons8.com/color/48/000000/bootstrap.png"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"> Bootstrap</a>
+<a href="https://img.icons8.com/color/48/000000/angularjs.png"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"> Angular</a>
